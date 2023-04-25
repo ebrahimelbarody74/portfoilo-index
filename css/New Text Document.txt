@@ -1,0 +1,76 @@
+/* position */
+.p-relative{
+    position: relative;
+}
+.p-absolute{
+    position: absolute;
+}
+/* position */
+
+/* display */
+.d-flex{
+    display: flex;
+}
+/* display */
+
+
+/* padding and margin */
+.p-10{
+    padding: 10px;
+}
+.p-15{
+    padding: 15px;
+}
+.p-20{
+    padding: 20px;
+}
+.m-20{
+    margin: 20px;
+}
+.mt-0{
+    margin-top: 0px;
+}
+/* end padding and margin */
+/* center */
+.t-align{
+    text-align: center;
+}
+.align-center{
+    align-items: center;
+}
+/* center */
+
+/* size */
+.fs-14{
+    font-size: 14px;
+}
+/* size */
+
+/* color */
+.c-black{
+    color: black;
+}
+
+.b-rad{
+    border-radius: 6px;
+}
+.bg-white{
+    background-color: white;
+}
+/* color */
+
+/* width */
+.w-fill{
+    width: 100%;
+}
+/* width */
+
+
+
+/* collection */
+.between-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* collection */

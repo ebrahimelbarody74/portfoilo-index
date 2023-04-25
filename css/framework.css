@@ -1,0 +1,205 @@
+.bg-white{
+    background-color: white;
+}
+.c-black{
+    color: black;
+}
+.b-rad{
+    border-radius: 6px;
+}
+.p-10{
+    padding: 10px;
+}
+.p-20{
+    padding: 20px;
+}
+.p-relative{
+    position: relative;
+}
+.p-absolute{
+    position: absolute;
+}
+.t-align{
+    text-align: center;
+}
+.mt-0{
+    margin-top: 0;
+}
+
+.d-flex{
+    display: flex;
+}
+.d-grid{
+    display: grid;
+}
+.d-block{
+    display: block;
+}
+.gap{
+    gap: 20px;
+}
+.align-center{
+    align-items: center;
+}
+@media(max-width:767px){
+    .txt-c-mobile{
+        text-align: center;
+    }
+    .d-block-mobile{
+        display: block;
+    }
+}
+.fs-14{
+    font-size: 14px;
+}
+
+
+.between-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.p-15{
+    padding: 15px;
+}
+
+.w-fill{
+    width: 100%;
+}
+
+.rad-10{
+    border-radius: 10px;
+}
+
+.c-blue{
+    color: #0075ff;
+}
+.m-bottom30{
+    margin-bottom: 30px;
+}
+.f-wrap {
+    flex-wrap: wrap;
+}
+.fs-18{
+    font-size: 18px;
+}
+.fw-bold{
+    font-weight: bold;
+}
+
+.c-green{
+    color: #22c55e;
+}
+.c-blue{
+    color: #0075ff;
+}
+.c-red{
+    color:#f44336;
+}
+.c-orange{
+    color: #f59e0b;
+}
+.bg-green{
+    background-color: #22c55e;
+}
+.bg-blue{
+    background-color: #0075ff;
+}
+.bg-red{
+    background-color:#f44336;
+}
+.bg-orange{
+    background-color: #f59e0b;
+}
+
+@media(max-width:767px){
+    .f-d-column{
+        flex-direction:column
+    }
+    .m-top-mobile{
+        margin-top: 20px;
+    }
+}
+
+.m-bottom20{
+    margin-bottom: 20px;
+}
+.fs-15{
+    font-size: 16px;
+}
+.fs-13{
+    font-size: 13px;
+}
+.mt-25{
+    margin-top: 25px;
+}
+.m-0{
+    margin: 0;
+}
+.c-white{
+    color: white;
+}
+.m-20{
+    margin: 20px;
+}
+
+.pt-10{
+    padding-top: 10px;
+}
+.pb-10{
+    padding-bottom: 10px;
+}
+.pbt-20{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.c-grey{
+    color: #888;
+}
+.m-0{
+    margin: 0;
+}
+
+.mt-10{
+    margin-top: 10px;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.rad-half{
+    border-radius: 50%;
+}
+
+.mb-15{
+    margin-bottom: 15px;
+}
+.pb-10{
+    padding-bottom:10px ;
+}
+
+
+.center-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blue{
+    background-color: rgb(0 117 255 / 20%)
+}
+.green{
+    background-color: rgb(34 197 94 / 20%);
+}
+
+.red{
+    background-color: rgb(244 67 54 / 20%);
+}
+.orange{
+    
+    background-color: rgb(245 158 11 / 20%);
+
+}
+.pt-15{
+    padding-top: 15px;
+}
